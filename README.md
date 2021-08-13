@@ -1,4 +1,4 @@
-# Teaching materials for the book "Architecture for Blockchain Applications", Springer 2019
+# Teaching materials for the book "Architecture for Blockchain Applications"
 
 On this website, we release the teaching materials accompanying the book
 * Xiwei Xu, Ingo Weber, and Mark Staples. Architecture for Blockchain Applications. Springer, 2019.
