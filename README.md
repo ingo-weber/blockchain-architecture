@@ -8,7 +8,7 @@ All teaching material is shared under the [Creative Commons CC-BY-SA license](ht
 * give the book authors credits for their work, by using the following statement: "Source: Xiwei Xu, Ingo Weber, and Mark Staples. Architecture for Blockchain Applications. Springer, 2019." 
 * share any adaptations under the same terms.
 
-For the full terms, please refer to the license page linked above.
+For the full terms, please refer to the [license page](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 ## Materials
 
