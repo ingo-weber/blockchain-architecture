@@ -4,3 +4,8 @@ bookdown::gitbook:
     toc:
       before: |
         <li><a href="./">Architecture for Blockchain Applications</a></li>
+    fontsettings:
+      theme: night
+    sharing:
+      github: true
+      linkedin: true
