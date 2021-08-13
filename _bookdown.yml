@@ -1,5 +1,5 @@
 book_filename: "blockchain-architecture"
-output_dir: "html"
+output_dir: "docs"
 language:
   ui:
     chapter_name: ""
@@ -7,6 +7,4 @@ output:
   html_document:
     chapter_sections: false
     number_sections: false
-#    theme: cerulean
-#    theme: default, bootstrap, cerulean, cosmo, darkly, flatly, journal, lumen, paper, readable, sandstone, simplex, spacelab, united, yeti
 delete_merged_file: true
