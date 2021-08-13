@@ -4,11 +4,3 @@ bookdown::gitbook:
     toc:
       before: |
         <li><a href="./">Architecture for Blockchain Applications</a></li>
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
-bookdown::epub_book: default
-bookdown::bs4_book: default

@@ -7,7 +7,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: ingo-weber/blockchain-architecture
 description: "This is the companion website for the book *Architecture for Blockchain Applications*."
 ---
 
