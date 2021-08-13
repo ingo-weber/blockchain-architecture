@@ -9,6 +9,7 @@ biblio-style: apalike
 link-citations: yes
 github-repo: ingo-weber/blockchain-architecture
 description: "This is the companion website for the book *Architecture for Blockchain Applications*."
+favicon: images/favicon.ico
 ---
 
 # Home
