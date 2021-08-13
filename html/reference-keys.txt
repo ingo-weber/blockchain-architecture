@@ -1,0 +1,11 @@
+home
+about-the-book
+keywords
+materials
+slide-decks-for-the-course-software-architecture-for-blockchain-applications
+practice-exam
+authors
+xiwei-xu
+ingo-weber
+mark-staples
+links
