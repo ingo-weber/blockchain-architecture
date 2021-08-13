@@ -13,7 +13,7 @@ favicon: images/favicon.ico
 ---
 
 # Home
-<img src="images/Architecture-for-BC-Apps-cover.png" align="right" width="50%"/>
+<img src="images/Architecture-for-BC-Apps-cover_borders.png" align="right" width="50%"/>
 
 This website accompanies the book "Architecture for Blockchain Applications".
 Here we provide [teaching materials](#materials) from courses based on the book.
