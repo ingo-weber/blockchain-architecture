@@ -16,9 +16,9 @@ For the full terms, please refer to the [license page](https://creativecommons.o
 
 This course is taught at [TU Berlin, Germany](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40971&version=3&sprache=2) and [UNSW Australia](https://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMP6452).
 You can find details on the courses at the linked websites.
-Slide decks from the lectures of this course are available in the folder [Slides](./Slides/).
+Slide decks from the lectures of this course are available in the folder [Slides](https://github.com/ingo-weber/blockchain-architecture/tree/main/Slides).
 
 ## Practice exam
 
-A practice exam and slides with correct or sample answers are available in the folder [Practice exam](./Practice_exam/).
+A practice exam and slides with correct or sample answers are available in the folder [Practice exam](https://github.com/ingo-weber/blockchain-architecture/tree/main/Practice_exam).
 
