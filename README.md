@@ -1,6 +1,6 @@
-# Teaching materials for the book "Architecture for Blockchain Applications"
+# Website for the book "Architecture for Blockchain Applications"
 
-On this website, we release the teaching materials accompanying the book
+Through this repository, we provide a [website](https://ingo-weber.github.io/blockchain-architecture/) and the teaching materials accompanying the book
 * Xiwei Xu, Ingo Weber, and Mark Staples. Architecture for Blockchain Applications. Springer, 2019.
 
 <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" align="right" width="150" ></a>
