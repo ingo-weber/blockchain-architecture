@@ -2,5 +2,5 @@
 
 * [Blockchain Research at Data61, CSIRO](https://research.csiro.au/data61/blockchain/)
 * [SBE Research Group at TU Berlin](https://www.sbe.tu-berlin.de/menue/software_and_business_engineering/parameter/en/)
-* [Blockchain Patters](https://research.csiro.au/blockchainpatterns/)
-* [Personal website of Ingo Weber (including papers)](http://imweber.de/)
+* [Blockchain Patterns](https://research.csiro.au/blockchainpatterns/)
+* [Publications website of Ingo Weber](http://imweber.de/publications.html)
